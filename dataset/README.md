@@ -1,6 +1,6 @@
 O Furto Consumado é uma das naturezas de ocorrência acompanhadas pela Secretaria de Estado de Justiça e Segurança Pública de Minas Gerais – SEJUSP, por meio do Observatório de Segurança Pública.
 
-Os dados utilizados neste banco são provenientes do Armazém de Dados do Sistema Integrado de Defesa Social, em seu módulo Registro de Evento de Defesa Social – REDS (Armazém_Sids_Reds). O REDS reúne os registros de eventos de defesa social realizados em Minas Gerais e constitui uma das fontes utilizadas pela SEJUSP para a produção de estatísticas de segurança pública.
+Os dados utilizados neste banco foram extraídos da Base Integrada de Segurança Pública (Bisp), em seu módulo Registro de Evento de Defesa Social – REDS. A Bisp compila os REDS registrados em Minas Gerais para as diferentes naturezas previstas. Por se tratar de um sistema integrado, abrange notificações registradas pela Polícia Militar, Polícia Civil, Corpo de Bombeiros Militar, Sistema Prisional e Sistema Socioeducativo.
 
 Os registros de Furto Consumado são apresentados segundo recortes territoriais e temporais, possibilitando a análise das ocorrências no estado de Minas Gerais por município, código do município segundo o IBGE, mês e ano do fato, Região Integrada de Segurança Pública – RISP e identificação quanto à inserção do município na Região Metropolitana de Belo Horizonte – RMBH.
 
