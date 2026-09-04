@@ -30,4 +30,4 @@ resources:
           type: string
     scheme: file
     title: Dados de Furtos Consumados
-title: Furtos Consumados - SEJUSP
+title: Furtos Consumados
